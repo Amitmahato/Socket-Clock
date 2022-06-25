@@ -1,6 +1,8 @@
 [submodule "socket-clock-client"]
 	path = socket-clock-client
 	url = git@github.com:Amitmahato/Socket-Clock-Client.git
+	branch = main
 [submodule "socket-clock-server"]
 	path = socket-clock-server
 	url = git@github.com:Amitmahato/Socket-Clock-Server.git
+	branch = main
